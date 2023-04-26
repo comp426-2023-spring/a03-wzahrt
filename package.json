@@ -10,12 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/comp426-2023-spring/a03-wzahrt.git"
   },
-  "author": "wzahrt",
+  "author": "vydeng",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/comp426-2023-spring/a03-wzahrt/issues"
   },
-  "homepage": "https://github.com/comp426-2023-spring/a03-wzahrt#readme"
+  "homepage": "https://github.com/comp426-2023-spring/a03-wzahrt#readme",
   "bin": {
     "node-rps": "./bin/rps-cli.js",
     "node-rpsls": "./bin/rpsls-cli.js"
