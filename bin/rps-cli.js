@@ -15,12 +15,13 @@ Examples:
                   e.g {"player":"rock","opponent":"scissors","result":"win"}`;
 
 const rules = `Rules for Rock Paper Scissors:
+
 - Scissors CUTS Paper
 - Paper COVERS Rock
 - Rock CRUSHES Scissors`;
 
 if (args.h || args.help) {
-	console.log(help_message);
+	console.log(help);
 	process.exit(0);
 }
 
